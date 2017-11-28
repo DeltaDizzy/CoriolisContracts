@@ -1,0 +1,17 @@
+C:\Users\ejbraswell\documents\visual studio 2017\Projects\CoriolisContracts\CoriolisContracts\bin\Debug\CoriolisContracts.dll
+C:\Users\ejbraswell\documents\visual studio 2017\Projects\CoriolisContracts\CoriolisContracts\bin\Debug\CoriolisContracts.pdb
+C:\Users\ejbraswell\documents\visual studio 2017\Projects\CoriolisContracts\CoriolisContracts\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\ejbraswell\documents\visual studio 2017\Projects\CoriolisContracts\CoriolisContracts\bin\Debug\Assembly-CSharp.dll
+C:\Users\ejbraswell\documents\visual studio 2017\Projects\CoriolisContracts\CoriolisContracts\bin\Debug\UnityEngine.dll
+C:\Users\ejbraswell\documents\visual studio 2017\Projects\CoriolisContracts\CoriolisContracts\bin\Debug\TrackIRUnity.dll
+C:\Users\ejbraswell\documents\visual studio 2017\Projects\CoriolisContracts\CoriolisContracts\bin\Debug\UnityEngine.UI.dll
+C:\Users\ejbraswell\documents\visual studio 2017\Projects\CoriolisContracts\CoriolisContracts\bin\Debug\KSPAssets.dll
+C:\Users\ejbraswell\documents\visual studio 2017\Projects\CoriolisContracts\CoriolisContracts\bin\Debug\Mono.Cecil.dll
+C:\Users\ejbraswell\documents\visual studio 2017\Projects\CoriolisContracts\CoriolisContracts\bin\Debug\TDx.TDxInput.dll
+C:\Users\ejbraswell\documents\visual studio 2017\Projects\CoriolisContracts\CoriolisContracts\bin\Debug\Mono.Security.dll
+C:\Users\ejbraswell\documents\visual studio 2017\Projects\CoriolisContracts\CoriolisContracts\bin\Debug\UnityEngine.xml
+C:\Users\ejbraswell\documents\visual studio 2017\Projects\CoriolisContracts\CoriolisContracts\obj\Debug\CoriolisContracts.csprojResolveAssemblyReference.cache
+C:\Users\ejbraswell\documents\visual studio 2017\Projects\CoriolisContracts\CoriolisContracts\obj\Debug\CoriolisContracts.dll
+C:\Users\ejbraswell\documents\visual studio 2017\Projects\CoriolisContracts\CoriolisContracts\obj\Debug\CoriolisContracts.pdb
+C:\Users\ejbraswell\Desktop\CoriolisContracts\Debug\Plugins\CoriolisContracts.dll
+C:\Users\ejbraswell\Desktop\CoriolisContracts\Debug\Plugins\CoriolisContracts.pdb
